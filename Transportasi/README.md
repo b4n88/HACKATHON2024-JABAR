@@ -1,3 +1,3 @@
-<h1 alignt= "center">TRANSPORTASI</h1>
+<h1 align= "center">TRANSPORTASI</h1>
 
 Penjelasan tentang transportasi
