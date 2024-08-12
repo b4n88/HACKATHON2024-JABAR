@@ -4,3 +4,4 @@
 - https://www.frontiersin.org/journals/future-transportation/sections/transportation-systems-modeling
 - https://blog.goodvisionlive.com/6-smart-cities-that-get-traffic-control-right
 - https://www.worldbank.org/en/news/feature/2018/11/16/reducing-traffic-congestion-and-emission-in-chinese-cities
+- https://www.juniperresearch.com/press/smart-traffic-management-to-significantly-reduce
