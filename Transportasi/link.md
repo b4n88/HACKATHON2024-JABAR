@@ -1,5 +1,6 @@
 <h1 align="center">Link sumber rujukann tentang transportasi</h1>
 
 - https://www.frontiersin.org/research-topics/48732/traffic-flow-control-in-developing-countries-capacity-operation-methodologies-and-management
+- https://www.frontiersin.org/journals/future-transportation/sections/transportation-systems-modeling
 - https://blog.goodvisionlive.com/6-smart-cities-that-get-traffic-control-right
 - https://www.worldbank.org/en/news/feature/2018/11/16/reducing-traffic-congestion-and-emission-in-chinese-cities
