@@ -1,3 +1,3 @@
 <h1 align= "center">TRANSPORTASI</h1>
 
-Penjelasan tentang transportasi
+Untuk mebuat ide apa yang ingin saya berikan dalam kompetisi ini saya butuh literasi tentanng transportasi yang ada pada negara maju.. beberapa sumber rujukan bisa di lihat di folder ini...
