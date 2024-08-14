@@ -8,6 +8,8 @@
 
 klik [di sini](https://www.alibabacloud.com/en/developer/idn-genai-hackathon-2024?_p_lc=1&utm_source=microcredential_kominfo&utm_medium=shorturl&utm_source=kominfo&utm_medium=shorturl*) untuk melihat rules dan lainnya..
 
+Untuk timeline yang saya schedulekan bisa di cek di [sini](https://docs.google.com/spreadsheets/d/1N2C0cf3cCoOzBdVHovr-NQBB0osb2t5nOJGly1DQOb0/edit?usp=sharing)
+
 Hal yang harus saya lakukan adalah :
 1. 👉 Registrasi sebelum 17 Aug 2024 🆗
 2. 👉 Menentukan masalah apa yang terjadi di Jawabarat
